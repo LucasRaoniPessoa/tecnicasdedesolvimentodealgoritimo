@@ -1,0 +1,2 @@
+# tecnicasdedesolvimentodealgoritimo
+Atividades da Faculdade
